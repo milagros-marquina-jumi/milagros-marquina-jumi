@@ -20,7 +20,9 @@
   </a>
 </h1> 
 
-<img align="right" src="https://github.com//jumi-developer//jumi-developer/raw/main/banner.gif" width="200 " height="200"/>
+<p align="center">
+  <img src="https://github.com//jumi-developer//jumi-developer/raw/main/banner.gif" width="200 " height="200"/>
+</p>
 
 ### FrontEnd
 [![Angular](https://img.shields.io/badge/Angular-D92B31?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
