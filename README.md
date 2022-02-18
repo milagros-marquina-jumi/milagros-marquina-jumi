@@ -20,13 +20,12 @@
   </a>
 </h1> 
 
-<img align="right" src="https://github.com//jumi-developer//jumi-developer/raw/main/banner.gif" width="250 " height="250"/>
+<img align="right" src="https://github.com//jumi-developer//jumi-developer/raw/main/banner.gif" width="200 " height="200"/>
 
 ### FrontEnd
 [![Angular](https://img.shields.io/badge/Angular-D92B31?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-760FF0?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/html-E96228?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![Css](https://img.shields.io/badge/Css-28A3D9?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
