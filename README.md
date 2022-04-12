@@ -85,6 +85,7 @@
     </p>
 </samp>
 
-<br><br>
-----
+<br>
 
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumi-developer&repo=ProyectoFinal-Galaxy&theme=onedark)](https://github.com/jumi-developer/ProyectoFinal-Galaxy)
