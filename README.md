@@ -1,18 +1,11 @@
 <h1 align="center"> Hi, I'm Milagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+
 <p align="center">
   <samp>「 I am passionate about the world of web and mobile development, learning about new technologies 」</samp>
   <samp></samp>
 </p>
 
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p>
-       <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumi-developer&layout=compact" />
-       <br>
-    </p>
-</details>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -20,9 +13,38 @@
   </a>
 </h1> 
 
+
+[![Gmail milagrosjulisa](https://img.shields.io/badge/-milagrosjulisa.mm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milagrosjulisa.mm@gmail.com)](mailto:milagrosjulisa.mm@gmail.com)
+[![Linkedin: Milagros Marquina](https://img.shields.io/badge/-Milagros%20Marquina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milagros-jumi/)](https://www.linkedin.com/in/milagros-jumi/) 
+[![GitHub jumi-developer](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jumi-developer)](https://github.com/jumi-developer)
+
+
 <p align="center">
-  <img src="https://github.com//jumi-developer//jumi-developer/raw/main/banner.gif" width="200 " height="200"/>
+  <img src="https://github.com//jumi-developer//jumi-developer/raw/main/portada.png"/>
 </p>
+
+
+<!---
+<p align="center">
+  <img src="https://github.com//jumi-developer//jumi-developer/raw/main/banner.gif"  height="200"/>
+</p>
+-->
+
+
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p>
+       <br>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumi-developer&layout=compact&theme=onedark" />
+       <br>
+    </p>
+    <p>
+       <br>
+       <img src="https://github-readme-stats.vercel.app/api/?username=jumi-developer&show_icons=true&theme=onedark" />
+       <br>
+    </p>
+</details>
+
 
 ### FrontEnd
 [![Angular](https://img.shields.io/badge/Angular-D92B31?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
@@ -66,5 +88,3 @@
 <br><br>
 ----
 
-[![Linkedin: Milagros Marquina](https://img.shields.io/badge/-Milagros%20Marquina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milagros-jumi/)](https://www.linkedin.com/in/milagros-jumi/) 
-[![GitHub jumi-developer](https://img.shields.io/github/followers/jumi-developer?label=follow&style=social)](https://github.com/jumi-developer)
