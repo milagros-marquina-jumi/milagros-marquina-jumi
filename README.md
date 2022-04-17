@@ -89,4 +89,4 @@
 <br>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumi-developer&repo=ProyectoFinal-Galaxy&theme=onedark)](https://github.com/jumi-developer/ProyectoFinal-Galaxy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milagros-marquina-jumi&repo=ProyectoFinal-Galaxy&theme=onedark)](https://github.com/milagros-marquina-jumi/ProyectoFinal-Galaxy)
