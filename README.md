@@ -36,12 +36,12 @@
     <summary> <samp>&#9776; More</samp></summary>
     <p>
        <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumi-developer&layout=compact&theme=onedark" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milagros-marquina-jumi&layout=compact&theme=onedark" />
        <br>
     </p>
     <p>
        <br>
-       <img src="https://github-readme-stats.vercel.app/api/?username=jumi-developer&show_icons=true&theme=onedark" />
+       <img src="https://github-readme-stats.vercel.app/api/?username=milagros-marquina-jumi&show_icons=true&theme=onedark" />
        <br>
     </p>
 </details>
