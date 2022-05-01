@@ -90,3 +90,8 @@
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milagros-marquina-jumi&repo=ProyectoFinal-Galaxy&theme=onedark)](https://github.com/milagros-marquina-jumi/ProyectoFinal-Galaxy)
+
+<br>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/milagrosmm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
