@@ -16,7 +16,7 @@
 
 [![Gmail milagrosjulisa](https://img.shields.io/badge/-milagrosjulisa.mm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milagrosjulisa.mm@gmail.com)](mailto:milagrosjulisa.mm@gmail.com)
 [![Linkedin: Milagros Marquina](https://img.shields.io/badge/-Milagros%20Marquina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milagros-jumi/)](https://www.linkedin.com/in/milagros-jumi/) 
-[![Web jumi-developera](https://img.shields.io/badge/-Portafolio%20Web-c99515?style=flat-square&logo=monkeytie&logoColor=white&link=https://jumi-developer)](https://jumi-developer)
+[![Web jumi-developera](https://img.shields.io/badge/-Portafolio%20Web-c99515?style=flat-square&logo=monkeytie&logoColor=white&link=https://jumi-developer)](https://www.milagrosmarquina.tech)
 [![GitHub jumi-developer](https://img.shields.io/badge/-Git%20Hub-c17538?style=flat-square&logo=github&logoColor=white&link=https://github.com/jumi-developer)](https://github.com/jumi-developer)
 
 
