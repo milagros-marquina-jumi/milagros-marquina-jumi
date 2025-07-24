@@ -101,8 +101,16 @@
 
 <br>
 
-<div align="center">  
+<!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=milagros-marquina-jumi&theme=onedark&hide_border=true" /> 
+</div> -->
+
+<div align="center">  
+    <img 
+      width="80%" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=milagros-marquina-jumi&theme=github-compact&bg_color=282C34&color=CCCCCC&line=DF6D74&point=AAAAAA&hide_border=true" 
+      alt="GitHub Activity Graph"
+    />
 </div> 
 
 <br>
