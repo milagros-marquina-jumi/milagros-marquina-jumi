@@ -1,137 +1,182 @@
-<h1>Hi, I'm Milagros
-    <img align="right" src="https://komarev.com/ghpvc/?username=milagros-marquina-jumi&style=for-the-badge">
-</h1>
-<!-- <img align="right" src="https://github.com//jumi-developer//jumi-developer/raw/main/banner.gif" width = 100px> -->
-
-[![Linkedin Milagros Marquina](https://img.shields.io/badge/-Milagros%20Marquina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milagros-jumi/)](https://www.linkedin.com/in/milagros-marquina-jumi/)
-[![Web jumi-developer](https://img.shields.io/badge/-Portafolio%20Web-c99515?style=flat-square&logo=monkeytie&logoColor=white&link=https://jumi-developer)](https://milagros-marquina-jumi.github.io/portfolio-jumi/)
-[![GitHub jumi-developer](https://img.shields.io/badge/-Git%20Hub-c17538?style=flat-square&logo=github&logoColor=white&link=https://github.com/milagros-marquina-jumi)](https://github.com/milagros-marquina-jumi)
-[![Gmail milagrosjulisa](https://img.shields.io/badge/-milagrosjulisa.mm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developer@milagrosmarquina.tech)](mailto:milagrosjulisa.mm@gmail.com)
- 
-<p>
-  <samp>「 I am passionate about the world of web and mobile development, learning about new technologies 」</samp>
-</p>
-
-<a>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B906&duration=4000&size=17&lines=Dedicated+to+being+a+fullstack+engineer">
-</a>
+<<h1 align="center">Hi, I'm Milagros Marquina 👋</h1>
 
 <p align="center">
-  <img src="https://github.com//jumi-developer//jumi-developer/raw/main/portada.png"/>
+  <strong>Senior Full-Stack Engineer · Software Architect · AI Builder</strong>
 </p>
 
-<br>
+<p align="center">
+  Building scalable platforms, secure APIs and AI-powered digital products.
+</p>
 
-# 💻 Tech Stack:
+<p align="center">
+  <a href="https://www.linkedin.com/in/milagros-marquina-jumi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://milagros-marquina-jumi.github.io/portafolio-jumi/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://mimotech.vip">
+    <img src="https://img.shields.io/badge/MIMOTECH-111827?style=for-the-badge&logo=rocket&logoColor=white" alt="MIMOTECH">
+  </a>
+  <a href="https://github.com/milagros-marquina-jumi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:milagrosjulisa.mm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-### FrontEnd
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+<h2>
+  About me
+  <img
+    align="right"
+    src="https://komarev.com/ghpvc/?username=milagros-marquina-jumi&style=flat-square&color=7C3AED"
+    alt="Profile views"
+  >
+</h2>
 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+I'm a **Senior Full-Stack Engineer and Software Architect** with more than
+**6 years of experience** building enterprise applications, microservices,
+modern frontend architectures and cloud solutions.
 
-### BackEnd
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+- Specialized in **Java, Spring Boot, Angular, React, TypeScript and Node.js**.
+- Experience building solutions for **banking and high-transaction environments**.
+- Focused on **clean architecture, security, scalability and software quality**.
+- Working with **generative AI, RAG, AI agents and process automation**.
+- Founder of **[MIMOTECH AI & Software](https://mimotech.vip)**.
+- Based in Peru and open to remote opportunities.
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+## Main stack
 
-### DataBase
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+### Backend
 
-### Movil
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+</p>
 
-### Others
+### Frontend
 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+### Cloud, DevOps & Quality
 
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+</p>
 
-<br>
-<br>
+### Databases
 
-# 📊 GitHub Stats:
-   
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milagros-marquina-jumi&layout=compact&theme=onedark&hide_border=true" alt="Milagros Dev github stats" /> 
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/?username=milagros-marquina-jumi&show_icons=true&theme=onedark&hide_border=true" />
-</div> 
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB">
+</p>
 
-<br>
+## Architecture & AI
 
-<!--<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=milagros-marquina-jumi&theme=onedark&hide_border=true" /> 
-</div> -->
+<p>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-7C3AED?style=flat-square" alt="Microservices">
+  <img src="https://img.shields.io/badge/Hexagonal-Architecture-7C3AED?style=flat-square" alt="Hexagonal Architecture">
+  <img src="https://img.shields.io/badge/Event--Driven-Architecture-7C3AED?style=flat-square" alt="Event-Driven Architecture">
+  <img src="https://img.shields.io/badge/CQRS-Architecture-7C3AED?style=flat-square" alt="CQRS">
+  <img src="https://img.shields.io/badge/RAG-Generative_AI-10A37F?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/AI_Agents-Automation-10A37F?style=flat-square" alt="AI Agents">
+</p>
 
-<div align="center">  
-    <img 
-      width="80%" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=milagros-marquina-jumi&theme=github-compact&bg_color=282C34&color=CCCCCC&line=DF6D74&point=AAAAAA&hide_border=true" 
-      alt="GitHub Activity Graph"
-    />
-</div> 
+`Microservices` · `Hexagonal Architecture` · `Event-Driven Systems` ·
+`CQRS` · `BFF` · `REST APIs` · `OAuth 2.0` · `JWT` · `RBAC` ·
+`CI/CD` · `Observability` · `RAG` · `AI Agents`
 
-<br>
+## Featured projects
 
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding"
-    </p>
-</samp>
+### MIMOTECH AI & Software
 
-<br>
+Technology company focused on software development, automation and applied AI
+solutions for businesses and startups.
 
+**[Visit MIMOTECH →](https://mimotech.vip)**
 
-# 👩‍💻 Projects
+### Personal Portfolio
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milagros-marquina-jumi&repo=portfolio-jumi&theme=tokyonight)](https://github.com/milagros-marquina-jumi/portfolio-jumi)
+Portfolio with selected projects, professional experience and technical
+background.
 
+**[View portfolio →](https://milagros-marquina-jumi.github.io/portafolio-jumi/)**  
+**[View repository →](https://github.com/milagros-marquina-jumi/portafolio-jumi)**
 
-<br>
+---
 
-### Support Me
-<a href="https://www.buymeacoffee.com/milagrosmm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+> Most of my enterprise work was developed for banking and corporate clients under confidentiality agreements. My public repositories showcase selected personal projects, technical challenges and experiments.
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milagros-marquina-jumi&theme=tokyonight"
+    alt="GitHub contribution statistics"
+  >
+</p>
+
+<p align="center">
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milagros-marquina-jumi&theme=tokyonight"
+    alt="GitHub statistics"
+  >
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milagros-marquina-jumi&theme=tokyonight"
+    alt="Repositories by language"
+  >
+</p>
+
+## Support Me
+
+<p align="center">
+  If you like my projects or want to support the development of new ideas:
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/milagrosmm">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      width="190"
+      alt="Buy Me a Coffee"
+    >
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Let's build software that creates real impact.</strong>
+  <br><br>
+  <samp>
+    ════ ⋆★⋆ ════
+    <br>
+    "Happy Coding"
+  </samp>
+</p>
