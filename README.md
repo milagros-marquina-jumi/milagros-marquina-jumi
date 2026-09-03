@@ -1,4 +1,4 @@
-<<h1 align="center">Hi, I'm Milagros Marquina 👋</h1>
+<h1 align="center">Hi, I'm Milagros Marquina 👋</h1>
 
 <p align="center">
   <strong>Senior Full-Stack Engineer · Software Architect · AI Builder</strong>
@@ -109,22 +109,43 @@ modern frontend architectures and cloud solutions.
 `CQRS` · `BFF` · `REST APIs` · `OAuth 2.0` · `JWT` · `RBAC` ·
 `CI/CD` · `Observability` · `RAG` · `AI Agents`
 
-## Featured projects
+## Featured work
 
 ### MIMOTECH AI & Software
 
-Technology company focused on software development, automation and applied AI
-solutions for businesses and startups.
+<p>
+  Technology company focused on software development, automation and applied AI solutions for businesses and startups.
+</p>
 
-**[Visit MIMOTECH →](https://mimotech.vip)**
+<p>
+  <a href="https://mimotech.vip">
+    <img
+      src="https://img.shields.io/badge/VISIT_WEBSITE-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visit MIMOTECH website"
+    >
+  </a>
+</p>
 
 ### Personal Portfolio
 
-Portfolio with selected projects, professional experience and technical
-background.
+<p>
+  Portfolio showcasing selected projects, professional experience and technical background.
+</p>
 
-**[View portfolio →](https://milagros-marquina-jumi.github.io/portafolio-jumi/)**  
-**[View repository →](https://github.com/milagros-marquina-jumi/portafolio-jumi)**
+<p>
+  <a href="https://milagros-marquina-jumi.github.io/portafolio-jumi/">
+    <img
+      src="https://img.shields.io/badge/VIEW_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="View portfolio"
+    >
+  </a>
+  <a href="https://github.com/milagros-marquina-jumi/portafolio-jumi">
+    <img
+      src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View source code"
+    >
+  </a>
+</p>
 
 ---
 
