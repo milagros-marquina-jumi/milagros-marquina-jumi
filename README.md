@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Milagros Marquina 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer · Software Architect · AI Builder</strong>
+  <strong>Senior Full-Stack Engineer · Software Architect · Applied AI</strong>
 </p>
 
 <p align="center">
@@ -101,15 +101,13 @@ modern frontend architectures and cloud solutions.
   <img src="https://img.shields.io/badge/Hexagonal-Architecture-7C3AED?style=flat-square" alt="Hexagonal Architecture">
   <img src="https://img.shields.io/badge/Event--Driven-Architecture-7C3AED?style=flat-square" alt="Event-Driven Architecture">
   <img src="https://img.shields.io/badge/CQRS-Architecture-7C3AED?style=flat-square" alt="CQRS">
+  <img src="https://img.shields.io/badge/OAuth_2.0-Security-2563EB?style=flat-square" alt="OAuth 2.0">
+  <img src="https://img.shields.io/badge/JWT_%26_RBAC-Security-2563EB?style=flat-square" alt="JWT and RBAC">
   <img src="https://img.shields.io/badge/RAG-Generative_AI-10A37F?style=flat-square" alt="RAG">
   <img src="https://img.shields.io/badge/AI_Agents-Automation-10A37F?style=flat-square" alt="AI Agents">
 </p>
 
-`Microservices` · `Hexagonal Architecture` · `Event-Driven Systems` ·
-`CQRS` · `BFF` · `REST APIs` · `OAuth 2.0` · `JWT` · `RBAC` ·
-`CI/CD` · `Observability` · `RAG` · `AI Agents`
-
-## Featured work
+## Featured Work
 
 ### MIMOTECH AI & Software
 
@@ -174,7 +172,7 @@ modern frontend architectures and cloud solutions.
   >
 </p>
 
-## Support Me
+<h2 align="center">Support Me</h2>
 
 <p align="center">
   If you like my projects or want to support the development of new ideas:
